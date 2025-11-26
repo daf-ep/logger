@@ -1,0 +1,24 @@
+name: logger
+description: "This package provides a lightweight and structured logging system for Flutter and Dart applications. It allows you to write logs locally on the device, organize them by level and timestamp, and retrieve the stored log files for debugging, support, or analytics purposes. The package is designed to be fast, reliable, and easy to integrate into any project."
+version: 1.0.0
+
+environment:
+  sdk: ^3.9.2
+
+repository: https://github.com/daf-ep/logger
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.5
+  package_info_plus: ^9.0.0
+  ansicolor: ^2.0.3
+  path: ^1.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
