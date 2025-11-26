@@ -1,10 +1,10 @@
 {
   "roots": [
-    "logger"
+    "fiber_logger"
   ],
   "packages": [
     {
-      "name": "logger",
+      "name": "fiber_logger",
       "version": "1.0.0",
       "dependencies": [
         "ansicolor",

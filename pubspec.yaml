@@ -1,4 +1,4 @@
-name: logger
+name: fiber_logger
 description: "This package provides a lightweight and structured logging system for Flutter and Dart applications. It allows you to write logs locally on the device, organize them by level and timestamp, and retrieve the stored log files for debugging, support, or analytics purposes. The package is designed to be fast, reliable, and easy to integrate into any project."
 version: 1.0.0
 

@@ -272,7 +272,7 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "logger",
+      "name": "fiber_logger",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.9"
